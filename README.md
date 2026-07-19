@@ -92,7 +92,7 @@ npm run server
 ## Future Enhancements
 
 - QR Code generation
-- Contact export (CSV, Excel, PDF)
+- Contact export (CSV, Excel, PDF) 
 - Cloud storage
 - AI-powered data validation
 - Multi-language OCR
